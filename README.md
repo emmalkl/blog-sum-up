@@ -32,6 +32,6 @@
 
 <p style="text-align:center">
   <a href="https://github.com/emmalkl/blog-sum-up/issues/2">
-  <img  width="100%" src="http://img3.duitang.com/uploads/item/201605/08/20160508004838_VFuZn.thumb.700_0.jpeg" />
+  <img  width="100%" src="https://raw.githubusercontent.com/emmalkl/blog-sum-up/master/img/g1.jpg" />
   </a>
 </p>
