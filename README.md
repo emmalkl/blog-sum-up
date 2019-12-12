@@ -28,10 +28,10 @@
 </p>
 
 
-<h3 id="2"><a href="https://github.com/emmalkl/blog-sum-up/issues/2">面试大汇总</a></h3>
+<h3 id="2"><a href="https://github.com/emmalkl/blog-sum-up/issues/2">js双向数据绑定实现</a></h3>
 
 <p style="text-align:center">
   <a href="https://github.com/emmalkl/blog-sum-up/issues/2">
-  <img  width="100%" src="https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=1232630636,733807665&fm=26&gp=0.jpg" />
+  <img  width="100%" src="http://img3.duitang.com/uploads/item/201605/08/20160508004838_VFuZn.thumb.700_0.jpeg" />
   </a>
 </p>
