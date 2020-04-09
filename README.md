@@ -15,6 +15,8 @@
 
 ## leetcode经典题型
 
+##npm报错汇总
+* [安装使用npm sass/scss的时候，报错汇总](#4)
 ***
 
 <h2 align="center">2019-12</h2>
